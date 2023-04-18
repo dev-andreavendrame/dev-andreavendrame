@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Andrea Vendrame.
 
 - 👀 I’m interested in learning and creating the new standards of the blockchain technology and apply them to the actual business models.
-- 🌱 I’m the head of [3Tech Studio]([https://github.com/rmrk-team](https://twitter.com/3techstudio).
+- 🌱 I’m the head of [3Tech Studio](https://twitter.com/3techstudio).
 - 💞️ I’m looking to collaborate on interesting things, let's propose!
 
 
