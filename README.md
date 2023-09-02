@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Andrea Vendrame.
 
 - 👀 I love to discover how we can implement complex logics into the blockchain unlocking its real potential and apply this technology to actual business models.
-- 🌱 I’m the head of [3Tech Studio](https://twitter.com/3techstudio).
+- 🌱 Leader of [3Tech Studio](https://twitter.com/3techstudio).
 - 💞️ I’m looking to collaborate on interesting things, let's propose!
 
 
